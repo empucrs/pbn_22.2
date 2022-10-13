@@ -1,0 +1,8 @@
+*.elf
+*.hex
+*.o
+*.exe
+*.lst
+*.sec
+
+
